@@ -1,0 +1,30 @@
+.ff{
+    position: absolute;
+    top: 20vh;
+    left: 40vw;
+    border: 1px solid black;
+    padding: 40px;
+}
+#log{
+   position: relative;
+   left: 5vw; 
+}
+#na{
+    height: 25px;
+    width: 15vw;
+}
+#em{
+    height: 25px;
+    width: 15vw;
+}
+#mo{
+    height: 25px;
+    width: 15vw;
+}
+#lo{
+    width: 15vw;
+}
+div{
+    position: relative;
+    bottom: 30px;
+}
